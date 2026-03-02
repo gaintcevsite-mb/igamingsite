@@ -1175,7 +1175,6 @@ img {
     .hero .decor {
         display: block !important;
         opacity: 1;
-        mix-blend-mode: normal !important;
     }
 
     .hero .decor--float {
